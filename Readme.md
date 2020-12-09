@@ -2,7 +2,6 @@
 
 * Студент: [Антон Скоробогатько](https://up.htmlacademy.ru/adaptive/21/user/1489969).
 * Наставник: [Полина  Катышева](https://up.htmlacademy.ru/adaptive/21/user/1489969).
->>>>>>> c73f11867a9d7f6bc13510ce560deea732da777a
 
 ---
 
