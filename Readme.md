@@ -1,14 +1,13 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Антон Скоробогатько](https://up.htmlacademy.ru/adaptive/21/user/1489969).
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 * Наставник: [Полина  Катышева](https://up.htmlacademy.ru/adaptive/21/user/1489969).
->>>>>>> 43e8a660c16cc52926210246113d254c694f34c5
+
 =======
 * Наставник: [Полина  Катышева](https://up.htmlacademy.ru/adaptive/21/user/1489969).
->>>>>>> 2a46cc661a1793b37dba4ee30953f07b9c562145
+
 
 ---
 
